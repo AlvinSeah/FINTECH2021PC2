@@ -4,5 +4,5 @@
 
 poop
 
-*this is a list item
-*this is another list
+* this is a list item
+* this is another list
